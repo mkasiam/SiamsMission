@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+
+p{
+    color: #545454;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: "Poppins";
+}
+.orange-highlight {
+  color: orange;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 3%;
+  padding-left: 2%;
+}
+.specialEffect {
+  margin-top: 5%;
+}
+.half-width img {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+section {
+  height: 550px;
+  margin: 40px;
+}
+.ButtonStyle {
+  text-decoration: none;
+  background-color: rgb(243, 165, 21);
+  font-size: 15px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 1000;
+}
+.Mymission {
+  text-align: center;
+}
+.smallBox {
+  width: 25%;
+  float: left;
+  padding: 18px;
+  margin: 2%;
+  height: auto;
+  border-radius: 25px;
+color: #8E9292;
+}
+.smallBox h3{
+    color: #000;
+    font-size: 24px;
+}
+.Imagestyle {
+  width: 110px;
+  height: 100px;
+}
+.Middlethree {
+  margin-left: 9%;
+  margin-right: 9%;
+}
+#MisssionBox {
+  background: #edf5f6;
+}
+#VissionBox {
+ 
+  background: #ffeeee;
+}
+#GoalsBox {
+  background: #fff4d6;
+}
+.thirdSection {
+  background-image: url(Images/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 15%;
+}
+.coronaCenter {
+  text-align: center;
+}
+.image-container-last{
+    padding: 10px;
+    height: 70vh;
+}
+.image-container-last img {
+    margin-left: 90px;
+    width: 250px;
+}
+#specialColor{
+    color: #99434C;
+}
+.LastThings{
+    text-align: center;
+    text-decoration: italic;
+    color: white;
+    
+}
+.Lastiteams{
+    background-color: #0B0D17;
+}
+footer{
+    text-align: center;
+    font-size: 13px;
+    color: white;
+}
